@@ -1,0 +1,100 @@
+2022-05-18 14:05:628 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 14:05:410 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 14:05:511 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 14:05:553 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 14:05:220 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 14:05:309 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:849 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:250 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:640 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:16 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:526 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:878 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:850 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:732 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:605 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:383 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:798 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:136 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:10 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:967 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:24 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:998 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:241 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:138 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:452 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:786 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:184 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:298 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:826 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:402 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:176 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:514 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:231 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:233 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:648 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:373 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:610 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:407 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:520 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:554 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:723 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:457 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:19 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:850 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:415 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:445 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:422 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 15:05:01 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 16:05:345 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 16:05:616 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 16:05:448 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 16:05:999 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 16:05:800 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 17:05:807 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 17:05:806 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-18 17:05:273 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 10:05:48 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 10:05:706 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 10:05:428 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 10:05:335 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 10:05:836 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 12:05:667 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 12:05:831 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 12:05:952 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 12:05:451 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 12:05:913 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 12:05:186 INFO  NewAndUsedCarSearchPage :46 - select car make from dropDown : [[ChromeDriver: chrome on WINDOWS (5852eb024eaa3bf4049661c54a53ad89)] -> id: makes]
+2022-05-19 12:05:438 INFO  NewAndUsedCarSearchPage :50 - Select car model : [[ChromeDriver: chrome on WINDOWS (5852eb024eaa3bf4049661c54a53ad89)] -> id: models]
+2022-05-19 12:05:528 INFO  NewAndUsedCarSearchPage :54 - Select location : NSW - Hunter
+2022-05-19 12:05:619 INFO  NewAndUsedCarSearchPage :58 - Select price : [[ChromeDriver: chrome on WINDOWS (5852eb024eaa3bf4049661c54a53ad89)] -> id: priceTo]
+2022-05-19 12:05:870 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 12:05:834 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 12:05:296 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 12:05:79 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 13:05:41 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 13:05:418 INFO  NewAndUsedCarSearchPage :46 - select car make from dropDown : [[ChromeDriver: chrome on WINDOWS (c1c358bdf8d0619a045bff5791599480)] -> id: makes]
+2022-05-19 13:05:632 INFO  NewAndUsedCarSearchPage :50 - Select car model : [[ChromeDriver: chrome on WINDOWS (c1c358bdf8d0619a045bff5791599480)] -> id: models]
+2022-05-19 13:05:834 INFO  NewAndUsedCarSearchPage :54 - Select location : NSW - Hunter
+2022-05-19 13:05:993 INFO  NewAndUsedCarSearchPage :58 - Select price : [[ChromeDriver: chrome on WINDOWS (c1c358bdf8d0619a045bff5791599480)] -> id: priceTo]
+2022-05-19 13:05:966 INFO  NewAndUsedCarSearchPage :62 - Click on find my car button : [[ChromeDriver: chrome on WINDOWS (c1c358bdf8d0619a045bff5791599480)] -> id: search-submit]
+2022-05-19 13:05:836 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 13:05:209 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 13:05:871 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 13:05:75 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 13:05:525 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 13:05:222 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 13:05:127 INFO  NewAndUsedCarSearchPage :46 - select car make from dropDown : [[ChromeDriver: chrome on WINDOWS (93c35122ef3325992d6e80189c21c440)] -> id: makes]
+2022-05-19 13:05:254 INFO  NewAndUsedCarSearchPage :50 - Select car model : [[ChromeDriver: chrome on WINDOWS (93c35122ef3325992d6e80189c21c440)] -> id: models]
+2022-05-19 13:05:423 INFO  NewAndUsedCarSearchPage :54 - Select location : NSW - Hunter
+2022-05-19 13:05:542 INFO  NewAndUsedCarSearchPage :58 - Select price : [[ChromeDriver: chrome on WINDOWS (93c35122ef3325992d6e80189c21c440)] -> id: priceTo]
+2022-05-19 13:05:305 INFO  NewAndUsedCarSearchPage :62 - Click on find my car button : [[ChromeDriver: chrome on WINDOWS (93c35122ef3325992d6e80189c21c440)] -> id: search-submit]
+2022-05-19 13:05:826 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 13:05:218 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 13:05:70 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 13:05:105 INFO  NewAndUsedCarSearchPage :46 - select car make from dropDown : [[ChromeDriver: chrome on WINDOWS (f2d26f614c2736bad5080c991b099f48)] -> id: makes]
+2022-05-19 13:05:115 INFO  NewAndUsedCarSearchPage :50 - Select car model : [[ChromeDriver: chrome on WINDOWS (f2d26f614c2736bad5080c991b099f48)] -> id: models]
+2022-05-19 13:05:278 INFO  NewAndUsedCarSearchPage :54 - Select location : NSW - Hunter
+2022-05-19 13:05:432 INFO  NewAndUsedCarSearchPage :58 - Select price : [[ChromeDriver: chrome on WINDOWS (f2d26f614c2736bad5080c991b099f48)] -> id: priceTo]
+2022-05-19 13:05:103 INFO  NewAndUsedCarSearchPage :62 - Click on find my car button : [[ChromeDriver: chrome on WINDOWS (f2d26f614c2736bad5080c991b099f48)] -> id: search-submit]
+2022-05-19 13:05:774 INFO  NewAndUsedCarSearchPage :68 - Verify page navigate to new and used acr search page : 1 Used BMW 4 Series for Sale under $100,000 in Hunter, NSW
